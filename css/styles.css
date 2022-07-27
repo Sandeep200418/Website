@@ -1,4 +1,5 @@
 
+
 body{
     color: #40514E ;
     
@@ -145,12 +146,11 @@ position: relative;
   }
   .Reading{
     width: 20%;
-    float: right;
+    float:right;
     margin-right: 30px;
     
   }
-.mountain{
+  .mountain{
     width: 800px;
   }
-
 
